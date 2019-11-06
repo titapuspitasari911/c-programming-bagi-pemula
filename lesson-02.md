@@ -18,7 +18,8 @@
 6. Peserta mampu memahami struktur perulangan.
 7. Peserta mampu memahami struktur kondisi.
 8. Peserta mampu memahami fungsi.
-9. Persiapan untuk kelas berikutnya.
+9. Peserta mampu memahami header.
+10. Persiapan untuk kelas berikutnya.
 
 ---
 
