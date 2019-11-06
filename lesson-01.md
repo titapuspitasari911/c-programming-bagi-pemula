@@ -18,92 +18,40 @@
 ---
 
 ### Software yang harus diunduh dan di-install
-  * [Sublime](https://www.sublimetext.com/3)
-  * [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id)
+  <!-- * [Sublime](https://www.sublimetext.com/3)
+  * [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=id) -->
 
 ---
 
 ### Material
 
-#### 1. Konsep Client Server
-  * Server
-  * Internet
-  * Client
-  * Analogi
-
-#### 2. Dimana Coding Berada?
-  * Penjelasan Letak Coding Di Simpan
-
-#### 3. Siapa Saja di Balik Pembuatan Website?
-  * Front end
-  * Back end
-  * Over all
-
-#### 4. Software apa saja yang digunakan untuk membuat website?
-  * Text Editor:
-      * Notepad
-      * Sublime Text
-      * Atom
-      * Brackets
-      * etc
-  * Browser:
-      * Google Chrome
-      * Mozilla Firefox
-      * Internet Explorer
-      * Opera
-      * Safari
-      * etc
-  * Browser Extension / Plugin (optional):
-      * Inspect Element
-      * Web Developer
-      * etc
-
-#### 5. Bahasa apa saja yang akan kamu dengar ketika akan belajar mebuat sebuah website?
-  * Front-end:
-      * HTML
-      * CSS
-      * JavaScript
-  * Back-end:
-      * PHP
-      * Python
-      * Ruby
-      * Java
-      * etc
-  * Database:
-      * MySQL
-      * PostgreSQL
-      * Oracle
-      * etc
-
-#### 6. HTML Basic
-  * Header
-  * Navigation
-  * Wow Factor (Slider, Parallax, Carousel, dll)
-  * Content
-  * Sidebar
-  * Footer
-  * etc
 
 ---
 
 #### File
-* Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf)
+<!-- * Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf) -->
 
 ---
 
 ### Execises
-1. Buat file HTML dengan:
+<!-- 1. Buat file HTML dengan:
     * Judul
     * Gambar
     * Paragraf
     * Link
-2. Beri style pada website yang dibuat di latihan pertama.
+2. Beri style pada website yang dibuat di latihan pertama. -->
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 02** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
+<!-- 1. Apa yang menjadi bottleneck dari **lesson 02** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini? -->
+
+---
+
+### References
+<!-- 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
+2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners") -->
 
 ---
 

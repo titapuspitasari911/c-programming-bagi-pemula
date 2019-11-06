@@ -17,30 +17,11 @@
 
 ### Materi
 
-#### 1. Menentukan tipe website apa yang ingin dibuat:
-* Company profile
-* Toko online
-* News
-* Dll
-
-#### 2. Mencari beberapa website yang disukai atau kompetitor:
-* Sebagai inspirasi bagi website yang akan dibuat.
-* Sebagai acuan batas bawah kualitas website yang akan dibuat.
-
-#### 3. Memetakan arsitektur informasi website:
-* Navigasi dan peletakannya
-    * Navigasi atas
-    * Navigasi bawah
-* Page atau halaman website
-    * Beranda
-    * Tentang Kami
-    * Kontak Kami
-    * Dll
 
 ---
 
 #### File:
-* Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/DevelopApplication_CProgrammingBagiPemula.pdf)
+<!-- * Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/DevelopApplication_CProgrammingBagiPemula.pdf) -->
 
 ---
 
