@@ -1,18 +1,18 @@
-# CODING MUM
+# MENTORING SESSION BATCH #2
+## C PROGRAMMING BAGI PEMULA
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentation][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
 
 ---
 
-### LESSON 05: BOOTSTRAP
+### LESSON 05: Implementasi TCP Server - Client pada Pemrograman C
 ---
 
 ### Objectives
-1. Perkenalan tentang **Bootstrap**.
-2. Peserta mampu mengerti penggunaan **Bootstrap**.
-3. Peserta mengerti konsep responsive dengan menggunakan **Bootstrap**.
-4. Membuat layout website dengan menggunakan **Bootstrap**.
+1. Peserta mampu memahami socket programming.
+2. Peserta mampu mengimplementasikan Socket Client Server Programming. 
+3. Persiapan untuk kelas berikutnya.
 
 ---
 
@@ -257,15 +257,14 @@
 
 ---
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentation][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------------:|:--------------:|:-----------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Internet dan Web Development"
-[2]: lesson-02.md "Pengenalan HTML dan CSS"
-[3]: lesson-03.md "Pembahasan Lebih Rinci Tentang HTML"
-[4]: lesson-04.md "Pembahasan Lebih Rinci Tentang CSS"
-[5]: lesson-05.md "Framework Bootstrap"
-[6]: lesson-06.md "Personal Project"
-[7]: lesson-07.md "Domain, Hosting dan GitHub"
-[8]: lesson-08.md "Presentation"
+[1]: lesson-01.md "Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library"
+[2]: lesson-02.md "Pengenalan algoritma dasar pemrograman dengan Bahasa C"
+[3]: lesson-03.md "Array dan struktur pada Pemrograman C"
+[4]: lesson-04.md "Penanganan file pada Pemrograman C"
+[5]: lesson-05.md "Implementasi TCP Server - Client pada Pemrograman C"
+[6]: lesson-06.md "Pembuatan aplikasi Collect and Controlling Data Logger"
+
