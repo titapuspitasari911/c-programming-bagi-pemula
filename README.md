@@ -71,13 +71,13 @@
 * Slide materi [LESSON 05: Implementasi TCP Server - Client pada Pemrograman C](files/Lesson5_CProgrammingBagiPemula.pdf)
 ----
 
-### LESSON 06: Pembuatan aplikasi Collect and Controlling Data Logger
+### DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger
 #### Objectives:
 1. Peserta memahami fitur **Personal Project** yang akan dibuat.
 2. Peserta mulai mengerjakan **Personal Project**.
 
 #### File:
-* Slide materi [LESSON 06: Pembuatan aplikasi Collect and Controlling Data Logger](files/Lesson6_CProgrammingBagiPemula.pdf)
+* Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/Lesson6_CProgrammingBagiPemula.pdf)
 ----
 
 ### Prerequisite:

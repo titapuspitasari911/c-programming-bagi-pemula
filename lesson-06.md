@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 06: Pembuatan aplikasi Collect and Controlling Data Logger
+### DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger
 
 ---
 
