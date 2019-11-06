@@ -9,7 +9,7 @@
 
 ---
 
-#### Objectives:
+### Objectives:
 1. Peserta mampu memahami beberapa tipe data dasar (jenis dan jangkauannya).
 2. Peserta mampu memahami variabel.
 3. Peserta mampu memahami konstanta.
@@ -28,7 +28,7 @@
 
 ---
 
-#### File
+### File
 <!-- * Slide materi [LESSON 02: Pengenalan algoritma dasar pemrograman dengan Bahasa C](files/Lesson2_CProgrammingBagiPemula.pdf) -->
 
 ---

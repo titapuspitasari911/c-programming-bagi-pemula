@@ -9,7 +9,7 @@
 
 ---
 
-#### Objectives:
+### Objectives:
 1. Peserta mampu menggunakan perintah dasar Linux. 
 2. Peserta mampu mengenal Bahasa Pemrograman C.
 3. Peserta mampu melakukan compile program C dengan menggunakan GNU C Library.
@@ -28,7 +28,7 @@
 
 ---
 
-#### File
+### File
 <!-- * Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf) -->
 
 ---

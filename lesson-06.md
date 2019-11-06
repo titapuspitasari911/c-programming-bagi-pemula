@@ -20,7 +20,7 @@
 
 ---
 
-#### File:
+### File:
 <!-- * Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/DevelopApplication_CProgrammingBagiPemula.pdf) -->
 
 ---
