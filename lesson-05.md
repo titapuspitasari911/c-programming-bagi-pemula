@@ -233,13 +233,13 @@
 
 ---
 
-### File
-[LESSON 05: FRAMEWORK BOOTSTRAP](files/Lesson5-Bootstrap.pdf)
+#### File:
+* Slide materi [LESSON 05: Implementasi TCP Server - Client pada Pemrograman C](files/Lesson5_CProgrammingBagiPemula.pdf)
 
 ---
 
-### Latihan
-1. Buat halaman yang responsive ketika dibuka pada Phone, Tablet, Desktop dan Large Screen.
+### Exercises
+1. Peserta mampu mengimplementasikan CSS Eksternal dalam mempercantik website.
 
 ---
 

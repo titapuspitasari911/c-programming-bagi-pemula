@@ -13,8 +13,6 @@
 3. Peserta mampu melakukan compile program C dengan menggunakan GNU C Library.
 4. Persiapan untuk kelas berikutnya.
 
-#### File
-* Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf)
 ----
 
 ### LESSON 02: Pengenalan algoritma dasar pemrograman dengan Bahasa C
@@ -29,8 +27,6 @@
 8. Peserta mampu memahami fungsi.
 9. Persiapan untuk kelas berikutnya.
 
-#### File
-* Slide materi [LESSON 02: Pengenalan algoritma dasar pemrograman dengan Bahasa C](files/Lesson2_CProgrammingBagiPemula.pdf)
 ----
 
 ### LESSON 03: Array dan struktur pada Pemrograman C
@@ -43,8 +39,6 @@
 6. Peserta mampu memahami queue dan implementasinya.
 7. Persiapan untuk kelas berikutnya.
 
-#### File
-* Slide materi [LESSON 03: Array dan struktur pada Pemrograman C](files/Lesson3_CProgrammingBagiPemula.pdf)
 ----
 
 ### LESSON 04: Penanganan file pada Pemrograman C
@@ -57,8 +51,6 @@
 6. Peserta mampu memahami cara mengecek keberadaan file, membuat file, dan menghapus file dalam direktori.
 7. Persiapan untuk kelas berikutnya.
 
-#### File:
-* Slide materi [LESSON 04: Penanganan file pada Pemrograman C](files/Lesson4_CProgrammingBagiPemula.pdf)
 ----
 
 ### LESSON 05: Implementasi TCP Server - Client pada Pemrograman C
@@ -67,8 +59,6 @@
 2. Peserta mampu mengimplementasikan Socket Client Server Programming. 
 3. Persiapan untuk kelas berikutnya.
 
-#### File:
-* Slide materi [LESSON 05: Implementasi TCP Server - Client pada Pemrograman C](files/Lesson5_CProgrammingBagiPemula.pdf)
 ----
 
 ### DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger
@@ -76,8 +66,6 @@
 1. Peserta memahami fitur **Personal Project** yang akan dibuat.
 2. Peserta mulai mengerjakan **Personal Project**.
 
-#### File:
-* Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/Lesson6_CProgrammingBagiPemula.pdf)
 ----
 
 ### Prerequisite:

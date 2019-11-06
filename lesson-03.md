@@ -189,19 +189,19 @@
   ```
 ---
 
-### File
-[LESSON 03: PEMBAHASAN RINCI HTML](files/Lesson3-PembahasanRinciHTML.pdf)
+#### File
+* Slide materi [LESSON 03: Array dan struktur pada Pemrograman C](files/Lesson3_CProgrammingBagiPemula.pdf)
 
 ---
 
-### Latihan
-1. Peserta dapat mulai membuat halaman resep dengan memanfaatkan list, image, video, paragraf, dan heading yang sudah dipelajari sebelumnya.
+### Exercises
+1. Peserta mampu mengimplementasikan CSS Eksternal dalam mempercantik website.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 03** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 03** ini?
+1. Apa yang menjadi bottleneck dari **lesson 04** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 04** ini?
 
 ---
 

@@ -137,6 +137,11 @@
 
 ---
 
+#### File
+* Slide materi [LESSON 02: Pengenalan algoritma dasar pemrograman dengan Bahasa C](files/Lesson2_CProgrammingBagiPemula.pdf)
+
+---
+
 ### Execises
 1. Buat file HTML dengan:
     * Judul
@@ -156,11 +161,6 @@
 ### References
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
 2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners")
-
----
-
-### File
-[LESSON 02: PENGENALAN HTML DAN CSS](files/Lesson2-PengenalanHTMLdanCSS.pdf)
 
 ---
 

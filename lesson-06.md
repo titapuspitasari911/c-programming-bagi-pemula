@@ -39,14 +39,8 @@
 
 ---
 
-### Latihan
-1. Mulai membuat website. Peserta bebas menggunakan framework atau tidak.
-
----
-
-### Feedback
-1. Apa yang menjadi bottleneck dari lesson 06 ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi lesson 06 ini?
+#### File:
+* Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/DevelopApplication_CProgrammingBagiPemula.pdf)
 
 ---
 

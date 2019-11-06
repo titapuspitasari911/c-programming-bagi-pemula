@@ -86,28 +86,24 @@
 
 ---
 
-### Instruction
-1. Buka beberapa website. Tunjukkan kepada peserta bagian dari tiap website:
-    * Header
-    * Navigation
-    * Wow Factor (Slider, Parallax, Carousel, dll)
-    * Content
-    * Sidebar
-    * Footer
-    * etc
-2. Persiapan instalasi Sublime dan Google Chrome.
-3. Jelaskan struktur folder untuk pembelajaran kelas CodingMum.
+#### File
+* Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf)
+
+---
+
+### Execises
+1. Buat file HTML dengan:
+    * Judul
+    * Gambar
+    * Paragraf
+    * Link
+2. Beri style pada website yang dibuat di latihan pertama.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 01** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 01** ini?
-
----
-
-### File
-[LESSON 01: INTERNET DAN WEB DEVELOPMENT](files/Lesson1-InternetdanWebDevelopment.pdf)
+1. Apa yang menjadi bottleneck dari **lesson 02** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
 
 ---
 

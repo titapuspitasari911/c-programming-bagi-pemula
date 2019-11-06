@@ -178,8 +178,8 @@
   ```
 ---
 
-### File
-[LESSON 04: PEMBAHASAN LEBIH RINCI CSS](files/Lesson4-PembahasanLebihRinciCSS.pdf)
+#### File:
+* Slide materi [LESSON 04: Penanganan file pada Pemrograman C](files/Lesson4_CProgrammingBagiPemula.pdf)
 
 ---
 
