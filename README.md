@@ -1,5 +1,4 @@
-# MENTORING SESSION BATCH #2
-## C PROGRAMMING BAGI PEMULA
+# C PROGRAMMING BAGI PEMULA
 
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
@@ -83,7 +82,7 @@
 
 ### Prerequisite:
 1. Siapkan laptop dengan Sistem Operasi Linux (Distro Debian/Ubuntu).
-2. Editor Visual Studio Code [ Download di sini ](https://code.visualstudio.com/download)
+2. Editor Visual Studio Code [ download di sini ](https://code.visualstudio.com/download)
 ---
 
 ### Referensi belajar mandiri:
