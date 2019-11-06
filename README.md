@@ -11,7 +11,8 @@
 1. Peserta mampu menggunakan perintah dasar Linux. 
 2. Peserta mampu mengenal Bahasa Pemrograman C.
 3. Peserta mampu melakukan compile program C dengan menggunakan GNU C Library.
-4. Persiapan untuk kelas berikutnya.
+4. Peserta mampu menampilkan `Helo word` pada Bahasa Pemrograman C.
+5. Persiapan untuk kelas berikutnya.
 
 ----
 
