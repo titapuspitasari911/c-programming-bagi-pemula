@@ -35,8 +35,8 @@
 #### Objectives:
 1. Peserta mampu memahami struktur data array.
 2. Peserta mampu memahami struct.
-3. Peserta mampu memahami typedef.
-4. Peserta mampu memahami union.
+3. Peserta mampu memahami define.
+4. Peserta mampu memahami union dan typedef.
 5. Peserta mampu memahami pointer.
 6. Peserta mampu memahami queue dan implementasinya.
 7. Persiapan untuk kelas berikutnya.
