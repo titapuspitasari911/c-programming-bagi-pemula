@@ -105,31 +105,40 @@
     * Syntax
       * `nano [NAMA_FILE] <enter>`
     * Catatan:
-      * -p : menghapus parent direktori dan child folder yang telah dibuat.
+      * tekan Ctrl+O untuk menyimpan pengubahan pada file. Kemudian tekan enter ketika di bagian sisi kiri bawah ada tulisan "File Name to Write:", jika nama file penyimpanan konten sudah sesuai keinginan.
+      * tekan Ctrl+X untuk keluar dari editor nano.
+    * Example
+      * Jalankan perintah `nano halo.txt`.
+      * isi file **halo.txt** dengan ini:
+      ```c
+        Halo ini adalah isi dari sebuah file.
+      ```
+      * tekan Ctrl+O untuk menyimpan pengubahan pada file. Kemudian tekan enter ketika di bagian sisi kiri bawah ada tulisan "File Name to Write:", jika nama file penyimpanan konten sudah sesuai keinginan.
+      * tekan Ctrl+X untuk keluar dari editor nano.
 
   * Penjelasan mengenai perintah **more**
     * **more**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk menampilkan isi dari sebuah file.
     * Syntax
-      * `more <enter>`
-      
+      * `more [NAMA_FILE] <enter>`
+    * Example
+      * `more halo.txt`
+
   * Penjelasan mengenai perintah **cp**
     * **cp**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk meng-copy file atau folder.
     * Syntax
-      * `cp <enter>`
+      * `cp [SOURCE] [DESTINATION] <enter>`
+    * Example
+      * `cp halo.txt halo_copy.txt`
 
   * Penjelasan mengenai perintah **mv**
     * **mv**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk memindahkan file atau folder.
     * Syntax
-      * `mv <enter>`
-
-  * Penjelasan mengenai perintah **whereis**
-    * **whereis**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
-    * Syntax
-      * `whereis <enter>`
+      * `mv [SOURCE] [DESTINATION] <enter>`
+    * Example
+      * `mv halo.txt ../halo_move.txt`
 
   * Penjelasan mengenai perintah **rm**
     * **rm**
