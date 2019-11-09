@@ -99,11 +99,13 @@
       * `rmdir mydir`
       * `rmdir -p parentFolder/childFolder`
 
-  * Penjelasan mengenai perintah **vi**
-    * **vi**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+  * Penjelasan mengenai perintah **nano**
+    * **nano**
+      * Perintah yang digunakan untuk menampilkan editor text linux.
     * Syntax
-      * `vi <enter>`
+      * `nano [NAMA_FILE] <enter>`
+    * Catatan:
+      * -p : menghapus parent direktori dan child folder yang telah dibuat.
 
   * Penjelasan mengenai perintah **more**
     * **more**
@@ -176,6 +178,12 @@
       * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
       * `make <enter>`
+
+  * Penjelasan mengenai perintah **clear**
+    * **clear**
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+    * Syntax
+      * `clear <enter>`
   
   * Penjelasan mengenai perintah **reboot**
     * **reboot**
@@ -199,7 +207,6 @@
     * fungsi **main()**
     * fungsi **printf()**
     * fungsi **system()**
-
 
 #### 3. Compile program C dengan menggunakan GNU C Library
   * Penjelasan mengenai perintah **gcc**
@@ -226,7 +233,7 @@
     * Buat tiga buah folder pada direktori Lesson01 dengan nama FolderA, FolderB, DeleteFolder menggunakan satu perintah **mkdir**.
     * Tampilkan isi dari folder Lesson01 dengan menggunakan perintah **ls** dengan format panjang ke bawah.
     * Hapus folder DeleteFolder dengan menggunakan perintah **rmdir**.
-    * Buat sebuah file test.c pada direktori FolderA dengan menggunakan perintah **vi** isi dengan source code di bawah ini.
+    * Buat sebuah file test.c pada direktori FolderA dengan menggunakan perintah **nano** isi dengan source code di bawah ini.
 
       ```c
       # include <stdio.h>
