@@ -161,28 +161,57 @@
 
   * Penjelasan mengenai perintah **ps**
     * **ps**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk melihat status dari proses.
     * Syntax
-      * `ps <enter>`
+      * `ps [OPTIONS] <enter>`
+    * Options yang sering digunakan
+      * -p : proses id dari program yang sedang dijalankan oleh.
+      * -e : tampilkan semua proses.
+      * -f : tampilkan dengan format list yang lengkap.
+    * Example
+      * `ps`
+      * `ps -p 12344`
+      * `ps -f`
+      * `ps -e`
+      * `ps -ef`
 
   * Penjelasan mengenai perintah **kill**
     * **kill**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk membunuh sebuah proses.
     * Syntax
-      * `kill <enter>`
+      * `kill [SIGNAL] [PID]<enter>`
+    * Signal yang sering digunakan
+      * -9 : kill oleh kernel linux.
+    * Example
+      * `kill 12344`
+      * `kill -9 12344`
 
   * Penjelasan mengenai perintah **grep**
     * **grep**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mencari sesuatu menggunakan global regular expression.
     * Syntax
-      * `grep <enter>`
+      * `grep [PATTERN] <enter>`
+    * Example
+      * `ps -e | grep "chrome"`
+      * `more halo.txt | grep "halo"`
 
   * Penjelasan mengenai perintah **chmod**
     * **chmod**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengubah mode file.
     * Syntax
-      * `chmod <enter>`
-
+      * `chmod [MODE] [FILE]<enter>`
+    * Mode [ABC]
+      * A : permission mode untuk user
+      * B : permission mode untuk group
+      * C : permission mode untuk other
+      * AB dan C bisa di isi dengan nilai di bawah ini:
+        * 4 stands for "read",
+        * 2 stands for "write",
+        * 1 stands for "execute", and
+        * 0 stands for "no permission."
+    * Example
+      * `chmod 467 halo.txt`
+        
   * Penjelasan mengenai perintah **chown**
     * **chown**
       * Perintah yang digunakan untuk mengetahui path direktori kerja.
@@ -197,19 +226,19 @@
 
   * Penjelasan mengenai perintah **clear**
     * **clear**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk membersihkan output terminal.
     * Syntax
       * `clear <enter>`
   
   * Penjelasan mengenai perintah **reboot**
     * **reboot**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk me-reboot sistem.
     * Syntax
       * `reboot <enter>`
 
   * Penjelasan mengenai perintah **shotdown**
     * **shotdown**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mematikan sistem.
     * Syntax
       * `shotdown <enter>`
 
