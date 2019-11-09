@@ -22,17 +22,17 @@
 #### 1. Perintah Dasar Pada Linux
   * Penjelasan mengenai perintah **pwd**
     * **pwd**
-      Perintah yang digunakan untuk mengetahui path direktori kerja Anda.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja Anda.
     * Syntax
-      `pwd <enter>`
+      * `pwd <enter>`
     * Example
-      `pwd`
+      * `pwd`
 
   * Penjelasan mengenai perintah **Is**
     * **Is**
-      Perintah yang digunakan untuk menampilkan daftar file dan direktori beserta metadata yang terkait dengan file dan folder tersebut diurutkannya berdasarkan abjad.
+      * Perintah yang digunakan untuk menampilkan daftar file dan direktori beserta metadata yang terkait dengan file dan folder tersebut diurutkannya berdasarkan abjad.
     * Syntax
-      `Is [OPTIONS] [PATH_DIRECTORY]<enter>`
+      * `Is [OPTIONS] [PATH_DIRECTORY]<enter>`
     * Options yang sering digunakan
       * -a : tampilkan semua file dan folder (termasuk file yang disembunyikan dan root directori)
       * -l : tampilkan daftar list file dan folder format panjang ke bawah dengan meta data file dan folder.
@@ -48,17 +48,17 @@
 
   * Penjelasan mengenai perintah **cd**
     * **cd**
-      Perintah yang digunakan untuk mengubah direktori kerja Anda.
+      * Perintah yang digunakan untuk mengubah direktori kerja Anda.
     * Syntax
-      `cd [PATH_DIRECTORY] <enter>`
+      * `cd [PATH_DIRECTORY] <enter>`
     * Example
-    `cd /home`
+      * `cd /home`
 
   * Penjelasan mengenai perintah **touch**
     * **touch**
-      Perintah yang digunakan untuk stempel waktu pada sebuah file. Biasanya digunakan untuk stempel waktu file logger.
+      * Perintah yang digunakan untuk stempel waktu pada sebuah file. Biasanya digunakan untuk stempel waktu file logger.
     * Syntax
-      `touch [OPTIONS] [PATH_FILE] <enter>`
+      * `touch [OPTIONS] [PATH_FILE] <enter>`
     * Options yang sering digunakan
       * -c : secara default **touch** akan membuat file yang di **touch** jika file itu tidak ada, gunakan **-c** ini untuk mencegah file di create ketika file itu tidak ada.
     * Example
@@ -67,7 +67,7 @@
 
   * Penjelasan mengenai perintah **mkdir**
     * **mkdir**
-      Perintah yang digunakan untuk membuat sebuah direktori.
+      * Perintah yang digunakan untuk membuat sebuah direktori.
     * Syntax
       `mkdir [OPTIONS] [DIRECTORY_NAME] <enter>`
     * Options yang sering digunakan
@@ -79,9 +79,9 @@
 
   * Penjelasan mengenai perintah **rmdir**
     * **rmdir**
-      Perintah yang digunakan untuk menghapus direktori.
+      * Perintah yang digunakan untuk menghapus direktori.
     * Syntax
-      `rmdir <enter>`
+      * `rmdir <enter>`
     * Options yang sering digunakan
       * -p : menghapus parent direktori dan child folder yang telah dibuat.
     * Example
@@ -90,87 +90,99 @@
 
   * Penjelasan mengenai perintah **man**
     * **man**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `man <enter>`
+      * `man <enter>`
 
   * Penjelasan mengenai perintah **vi**
     * **vi**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `vi <enter>`
+      * `vi <enter>`
 
   * Penjelasan mengenai perintah **more**
     * **more**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `more <enter>`
+      * `more <enter>`
       
   * Penjelasan mengenai perintah **cp**
     * **cp**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `cp <enter>`
+      * `cp <enter>`
 
   * Penjelasan mengenai perintah **mv**
     * **mv**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `mv <enter>`
+      * `mv <enter>`
 
   * Penjelasan mengenai perintah **whereis**
     * **whereis**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `whereis <enter>`
+      * `whereis <enter>`
 
   * Penjelasan mengenai perintah **rm**
     * **rm**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `rm [OPTIONS] [DIRECTORY_NAME] <enter>`
+      * `rm [OPTIONS] [DIRECTORY_NAME] <enter>`
 
   * Penjelasan mengenai perintah **sudo**
     * **sudo**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `sudo <enter>`
+      * `sudo <enter>`
 
   * Penjelasan mengenai perintah **ps**
     * **ps**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `ps <enter>`
+      * `ps <enter>`
 
   * Penjelasan mengenai perintah **kill**
     * **kill**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `kill <enter>`
+      * `kill <enter>`
 
   * Penjelasan mengenai perintah **grep**
     * **grep**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `grep <enter>`
+      * `grep <enter>`
 
   * Penjelasan mengenai perintah **chmod**
     * **chmod**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `chmod <enter>`
+      * `chmod <enter>`
 
   * Penjelasan mengenai perintah **chown**
     * **chown**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `chown <enter>`
+      * `chown <enter>`
 
   * Penjelasan mengenai perintah **make**
     * **make**
-      Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
     * Syntax
-      `make <enter>`
+      * `make <enter>`
+  
+  * Penjelasan mengenai perintah **reboot**
+    * **reboot**
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+    * Syntax
+      * `reboot <enter>`
+
+  * Penjelasan mengenai perintah **shotdown**
+    * **shotdown**
+      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+    * Syntax
+      * `shotdown <enter>`
 
 #### 2. Pengenalan Bahasa Pemrograman C
   * Apa itu bahasa program C?
