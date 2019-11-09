@@ -220,13 +220,13 @@
 
 ### Execises
 1. Perintah Dasar Pada Linux
-  * Buka terminal dan masuk ke dalam direktori Document dengan menggunakan perintah **cd**.
-  * Buat sebuah folder pada direktori Document dengan nama CProgrammingClass menggunakan perintah **mkdir**.
-  * Buat sebuah folder pada direktori CProgrammingClass dengan nama Lesson01 menggunakan perintah **mkdir**.
-  * Buat tiga buah folder pada direktori Lesson01 dengan nama FolderA, FolderB, DeleteFolder menggunakan satu perintah **mkdir**.
-  * Tampilkan isi dari folder Lesson01 dengan menggunakan perintah **ls** dengan format panjang ke bawah.
-  * Hapus folder DeleteFolder dengan menggunakan perintah **rmdir**.
-  * Buat sebuah file test.c pada direktori FolderA dengan menggunakan perintah **vi** isi dengan source code di bawah ini.
+  ** Buka terminal dan masuk ke dalam direktori Document dengan menggunakan perintah **cd**.
+  ** Buat sebuah folder pada direktori Document dengan nama CProgrammingClass menggunakan perintah **mkdir**.
+  ** Buat sebuah folder pada direktori CProgrammingClass dengan nama Lesson01 menggunakan perintah **mkdir**.
+  ** Buat tiga buah folder pada direktori Lesson01 dengan nama FolderA, FolderB, DeleteFolder menggunakan satu perintah **mkdir**.
+  ** Tampilkan isi dari folder Lesson01 dengan menggunakan perintah **ls** dengan format panjang ke bawah.
+  ** Hapus folder DeleteFolder dengan menggunakan perintah **rmdir**.
+  ** Buat sebuah file test.c pada direktori FolderA dengan menggunakan perintah **vi** isi dengan source code di bawah ini.
 
     ```c
     # include <stdio.h>
@@ -235,8 +235,8 @@
       printf("Ini adalah output dari perintah printf"); 
     }
     ```
-  * Pindahkan file test.c ke dalam FolderB dengan menggunakan perintah **mv**.
-  * Copy file test.c ke dalam FolderA dengan menggunakan perintah **cp**.
+  ** Pindahkan file test.c ke dalam FolderB dengan menggunakan perintah **mv**.
+  ** Copy file test.c ke dalam FolderA dengan menggunakan perintah **cp**.
 2. Salin kembali contoh program yang telah di berikan pada **lesson 1** ini dan modifikasi source code tersebut sesuai dengan keinginan dirimu.
 ---
 
