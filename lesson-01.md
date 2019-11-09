@@ -142,15 +142,22 @@
 
   * Penjelasan mengenai perintah **rm**
     * **rm**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk menghapus file.
     * Syntax
-      * `rm [OPTIONS] [DIRECTORY_NAME] <enter>`
+      * `rm [OPTIONS] [FILE_NAME|DIRECTORY_NAME] <enter>`
+    * Options yang sering digunakan
+      * -f : abaikan file yang tidak ada namun dipanggil saat di remove.
+      * -r : hapus secara rekrusif.
+    * Example
+      * `rm halo_copy.txt`
+      * `rm -rf parentFolder`
 
   * Penjelasan mengenai perintah **sudo**
     * **sudo**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk jalankan perintah sebagai pengguna lain.
     * Syntax
-      * `sudo <enter>`
+      * `sudo su` : login sebagai super user
+      * `sudo /opt/lampp/lampp start` : jalankan xampp sebagai root
 
   * Penjelasan mengenai perintah **ps**
     * **ps**
