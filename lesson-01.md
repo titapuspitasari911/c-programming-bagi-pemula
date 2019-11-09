@@ -20,6 +20,17 @@
 
 ### Material
 #### 1. Perintah Dasar Pada Linux
+
+  * Penjelasan mengenai perintah **man**
+    * **man**
+      * Perintah yang digunakan untuk menampilkan usermanual dari perintah yang ada di linux.
+    * Syntax
+      * `man [LINUX COMMAND] <enter>`
+    * Example
+      * `man pwd`
+      * `man cd`
+      * `man ls`
+
   * Penjelasan mengenai perintah **pwd**
     * **pwd**
       * Perintah yang digunakan untuk mengetahui path direktori kerja Anda.
@@ -87,12 +98,6 @@
     * Example
       * `rmdir mydir`
       * `rmdir -p parentFolder/childFolder`
-
-  * Penjelasan mengenai perintah **man**
-    * **man**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
-    * Syntax
-      * `man <enter>`
 
   * Penjelasan mengenai perintah **vi**
     * **vi**
