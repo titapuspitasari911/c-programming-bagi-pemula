@@ -230,8 +230,8 @@
       printf("Ini adalah output dari perintah printf"); 
     }
     ```
-    * Pindahkan file test.c ke dalam FolderB dengan menggunakan perintah **mv**.
-    * Copy file test.c ke dalam FolderA dengan menggunakan perintah **cp**.
+  * Pindahkan file test.c ke dalam FolderB dengan menggunakan perintah **mv**.
+  * Copy file test.c ke dalam FolderA dengan menggunakan perintah **cp**.
 2. Salin kembali contoh program yang telah di berikan pada **lesson 1** ini dan modifikasi source code tersebut sesuai dengan keinginan dirimu.
 ---
 
