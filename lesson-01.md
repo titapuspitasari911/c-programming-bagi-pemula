@@ -262,9 +262,9 @@
 
   * Pengenalan fungsi-fungsi dasar program C
     * Praprosesor **#include**
-      ** Di baris paling awal struktur penulisan program c, terdapat kode **#include**. Perintah **#include** digunakan untuk memasukkan sebuah file khusus yang memungkinkan kita mengakses berbagai fitur tambahan dalam bahasa C.
+      * Di baris paling awal struktur penulisan program c, terdapat kode **#include**. Perintah **#include** digunakan untuk memasukkan sebuah file khusus yang memungkinkan kita mengakses berbagai fitur tambahan dalam bahasa C.
     * fungsi **main()**
-      ** Fungsi **main()** merupakan fungsi yang pertama kali akan dijalankan dan di eksekusi pada pemrograman C. Fungsi **main()** ini bisa memiliki tipe **int** dan **void**. Fungsi **main()** menggunakan tipe data **int**, jika setelah eksekusi program diperlukan nilai balik dari akhir eksekusi program, namun jika tidak memerlukan nilai balik, fungsi **main()** dapat menggunakan tipe data **void**.
+      * Fungsi **main()** merupakan fungsi yang pertama kali akan dijalankan dan di eksekusi pada pemrograman C. Fungsi **main()** ini bisa memiliki tipe **int** dan **void**. Fungsi **main()** menggunakan tipe data **int**, jika setelah eksekusi program diperlukan nilai balik dari akhir eksekusi program, namun jika tidak memerlukan nilai balik, fungsi **main()** dapat menggunakan tipe data **void**.
     * fungsi **printf()**
       
     * fungsi **system()**
@@ -285,16 +285,15 @@
       * `gcc main.c -o main.o -c`
       * `gcc module.c -o module.o -c`    
       * `gcc -o myprog main.o module.o`
-      
-  * Cara menjalankan program C?
-      * Syntax
-        * `./[NAMA_APLIKASI]`
-      * Example
-        * `./helloWorld`
-        * `./myprog`    
 
-#### 4. Menampilkan `Helo word` pada Bahasa Pemrograman C
+#### 4. Menjalankan program C C
  * Menjalankan program C tanpa ada parameter input
+    * Syntax
+      * `./[NAMA_APLIKASI]`
+    * Example
+      * `./helloWorld`
+      * `./myprog` 
+      
  * Menjalankan program C dengan parameter input
 
 ---
