@@ -267,6 +267,7 @@
         * `gcc -o myprog main.o module.o`   
     
   * Struktur penulisan program C?
+    ![Struktur penulisan program C](images/struktur-penulisan-program-c.png)  
   * Pengenalan fungsi-fungsi dasar program C
     * Praprosesor **#include**
     * fungsi **main()**
