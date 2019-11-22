@@ -250,11 +250,28 @@
     - Ukuran file aplikasi yang dibuat pemrograman C lebih kecil, ini dikarenakan bahasa prmrograman c adalah bahasa tingkat menengah sehingga tidak perlu terlalu banyak development kit yang di bundle bersama program.
 
   * Proses kompilasi program C?
+    ![Proses kompilasi program C](images/kompilasi.png)
+    1. tahap preprosessor : membaca preprosessor yang ada di dalam program (#include <stdio.h>) dan memasukkan semua data yang terdapat dalam preprosessor kedalam kode program. hello.c disini kemudian menjadi hello.i
+    2. tahap compiler: mengubah kode program hasil modifikasi dengan preprosessor menjadi kode dalam bahasa assembly. hello.i menjadi hello.s
+    3. tahap assembler : mengubah kode bahasa assembly ke dalam kode biner (kode bahasa mesin). bentuknya berupa binary object program yang memiliki ekstensi .o .  hello.s menjadi hello.o
+    4. tahap linking : menggabungkan hello.o dengan fungsi printf pada library C. hasilnya berupa file eksekusi yang siap disimpan di memory mesin atau dieksekusi oleh mesin.  
+  * Struktur penulisan program C?
+    ![Struktur penulisan program C](images/struktur-penulisan-program-c.png)  
+  * Pengenalan fungsi-fungsi dasar program C
+    * Praprosesor **#include**
+      ** Di baris paling awal struktur penulisan program c, terdapat kode **#include**. Perintah **#include** digunakan untuk memasukkan sebuah file khusus yang memungkinkan kita mengakses berbagai fitur tambahan dalam bahasa C.
+    * fungsi **main()**
+      ** Fungsi **main()** merupakan fungsi yang pertama kali akan dijalankan dan di eksekusi pada pemrograman C. Fungsi **main()** ini bisa memiliki tipe **int** dan **void**. Fungsi **main()** menggunakan tipe data **int**, jika setelah eksekusi program diperlukan nilai balik dari akhir eksekusi program, namun jika tidak memerlukan nilai balik, fungsi **main()** dapat menggunakan tipe data **void**.
+    * fungsi **printf()**
+      
+    * fungsi **system()**
+
+#### 3. Compile program C dengan menggunakan GNU C Library
     * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis dalam 1 file source code:
       * Syntax
         * `gcc [NAMA FILE EXTENTION .c] -o [NAMA APLIKASI]`
       * Example
-        * `gcc hello_world.c -o hello_world`
+        * `gcc helloWorld.c -o helloWorld`
 
      * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis lebih dari 1 file source code:
       * Syntax
@@ -265,20 +282,12 @@
         * `gcc main.c -o main.o -c`
         * `gcc module.c -o module.o -c`    
         * `gcc -o myprog main.o module.o`   
-    
-  * Struktur penulisan program C?
-    ![Struktur penulisan program C](images/struktur-penulisan-program-c.png)  
-  * Pengenalan fungsi-fungsi dasar program C
-    * Praprosesor **#include**
-    * fungsi **main()**
-    * fungsi **printf()**
-    * fungsi **system()**
-
-#### 3. Compile program C dengan menggunakan GNU C Library
-  * Penjelasan mengenai perintah **gcc**
-  * Compile satu file c menjadi satu executable
-  * Compile beberapa file c menjadi satu executable
-  * Compile menggunakan perintak **make**
+  * Cara menjalankan program C?
+      * Syntax
+        * `./[NAMA_APLIKASI]`
+      * Example
+        * `./helloWorld`
+        * `./myprog`    
 
 #### 4. Menampilkan `Helo word` pada Bahasa Pemrograman C
  * Menjalankan program C tanpa ada parameter input
