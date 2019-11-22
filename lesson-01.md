@@ -220,12 +220,6 @@
     * Example
       * `chown gcp:gcp halo.txt`
 
-  * Penjelasan mengenai perintah **make**
-    * **make**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
-    * Syntax
-      * `make <enter>`
-
   * Penjelasan mengenai perintah **clear**
     * **clear**
       * Perintah yang digunakan untuk membersihkan output terminal.
@@ -246,7 +240,7 @@
 
 #### 2. Pengenalan Bahasa Pemrograman C
   * Apa itu bahasa program C?
-    * Bahasa C adalah bahasa pemrograman tingkat menengah. Artinya bahasa C ini lebih ringan dan kecil ukuran aplikasinya dibandingkan dengan bahasa tingkat tinggi dan sintak pemrogramannya pun lebih mudah dipahami dibandingkan dengan bahasa tingkat rendah.
+    * **Bahasa C** adalah bahasa pemrograman tingkat menengah. Artinya bahasa C ini lebih ringan dan kecil ukuran aplikasinya dibandingkan dengan bahasa tingkat tinggi dan sintak pemrogramannya pun lebih mudah dipahami dibandingkan dengan bahasa tingkat rendah.
 
   * Apa keuntungan belajar program C?
     Keuntungan dari belajar bahasa pemrograman C:
