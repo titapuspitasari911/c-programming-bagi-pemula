@@ -214,9 +214,11 @@
         
   * Penjelasan mengenai perintah **chown**
     * **chown**
-      * Perintah yang digunakan untuk mengetahui path direktori kerja.
+      * Perintah yang digunakan untuk mengubah kepemilikan file.
     * Syntax
-      * `chown <enter>`
+      * `chown [USER]:[GROUP] [NAMA_FILE]<enter>`
+    * Example
+      * `chown gcp:gcp halo.txt`
 
   * Penjelasan mengenai perintah **make**
     * **make**
@@ -244,8 +246,32 @@
 
 #### 2. Pengenalan Bahasa Pemrograman C
   * Apa itu bahasa program C?
+    Bahasa C adalah bahasa pemrograman tingkat menengah. Artinya bahasa C ini lebih ringan dan kecil ukuran aplikasinya dibandingkan dengan bahasa tingkat tinggi dan sintak pemrogramannya pun lebih mudah dipahami dibandingkan dengan bahasa tingkat rendah.
+
   * Apa keuntungan belajar program C?
+    Keuntungan dari belajar bahasa pemrograman C:
+    - Hampir semua jenis komputer memahami bahasa pemrograman ini
+    - Segala sesuatu dari mikrokontroler ke sistem operasi ditulis dalam pemrograman C.
+    - Bahasa pemrograman C sangat fleksibel dan serbaguna, memungkinkan kontrol maksimum dengan perintah minimal.
+    - Ukuran file aplikasi yang dibuat pemrograman C lebih kecil, ini dikarenakan bahasa prmrograman c adalah bahasa tingkat menengah sehingga tidak perlu terlalu banyak development kit yang di bundle bersama program.
+
   * Proses kompilasi program C?
+    * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis dalam 1 file source code:
+      * Syntax
+        * `gcc [NAMA FILE DENGAN EXTENTION .c] -o [NAMA APLIKASI]`
+      * Example
+        * `gcc hello_world.c -o hello_world`
+
+     * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis lebih dari 1 file source code:
+      * Syntax
+        * `gcc [NAMA FILE SOURCE CODE 1 DENGAN EXTENTION .c] -o [NAMA OBJEK FILE 1 DENGAN EXTENTION .o] -c`
+        * `gcc [NAMA FILE SOURCE CODE 2 DENGAN EXTENTION .c] -o [NAMA OBJEK FILE 2 DENGAN EXTENTION .o] -c`
+        * `gcc -o [NAMA APLIKASI] [NAMA OBJEK FILE 1 DENGAN EXTENTION .o] [NAMA OBJEK FILE 2 DENGAN EXTENTION .o]`
+      * Example
+        * `gcc main.c -o main.o -c`
+        * `gcc module.c -o module.o -c`    
+        * `gcc -o myprog main.o module.o`   
+    
   * Struktur penulisan program C?
   * Pengenalan fungsi-fungsi dasar program C
     * Praprosesor **#include**
