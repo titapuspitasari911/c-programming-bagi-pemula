@@ -258,7 +258,7 @@
       4. tahap linking : menggabungkan hello.o dengan fungsi printf pada library C. hasilnya berupa file eksekusi yang siap disimpan di memory mesin atau dieksekusi oleh mesin.  
 
   * Struktur penulisan program C?
-    ![Struktur penulisan program C](images/struktur-penulisan-program-c.png)  
+    <br>![Struktur penulisan program C](images/struktur-penulisan-program-c.png)  
 
   * Pengenalan fungsi-fungsi dasar program C
     * Praprosesor **#include**
