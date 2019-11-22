@@ -246,7 +246,7 @@
 
 #### 2. Pengenalan Bahasa Pemrograman C
   * Apa itu bahasa program C?
-    Bahasa C adalah bahasa pemrograman tingkat menengah. Artinya bahasa C ini lebih ringan dan kecil ukuran aplikasinya dibandingkan dengan bahasa tingkat tinggi dan sintak pemrogramannya pun lebih mudah dipahami dibandingkan dengan bahasa tingkat rendah.
+    * Bahasa C adalah bahasa pemrograman tingkat menengah. Artinya bahasa C ini lebih ringan dan kecil ukuran aplikasinya dibandingkan dengan bahasa tingkat tinggi dan sintak pemrogramannya pun lebih mudah dipahami dibandingkan dengan bahasa tingkat rendah.
 
   * Apa keuntungan belajar program C?
     Keuntungan dari belajar bahasa pemrograman C:
@@ -258,15 +258,15 @@
   * Proses kompilasi program C?
     * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis dalam 1 file source code:
       * Syntax
-        * `gcc [NAMA FILE DENGAN EXTENTION .c] -o [NAMA APLIKASI]`
+        * `gcc [NAMA FILE EXTENTION .c] -o [NAMA APLIKASI]`
       * Example
         * `gcc hello_world.c -o hello_world`
 
      * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis lebih dari 1 file source code:
       * Syntax
-        * `gcc [NAMA FILE SOURCE CODE 1 DENGAN EXTENTION .c] -o [NAMA OBJEK FILE 1 DENGAN EXTENTION .o] -c`
-        * `gcc [NAMA FILE SOURCE CODE 2 DENGAN EXTENTION .c] -o [NAMA OBJEK FILE 2 DENGAN EXTENTION .o] -c`
-        * `gcc -o [NAMA APLIKASI] [NAMA OBJEK FILE 1 DENGAN EXTENTION .o] [NAMA OBJEK FILE 2 DENGAN EXTENTION .o]`
+        * `gcc [NAMA FILE SOURCE CODE 1 EXTENTION .c] -o [NAMA OBJEK FILE 1 EXTENTION .o] -c`
+        * `gcc [NAMA FILE SOURCE CODE 2 EXTENTION .c] -o [NAMA OBJEK FILE 2 EXTENTION .o] -c`
+        * `gcc -o [NAMA APLIKASI] [NAMA OBJEK FILE 1 EXTENTION .o] [NAMA OBJEK FILE 2 EXTENTION .o]`
       * Example
         * `gcc main.c -o main.o -c`
         * `gcc module.c -o module.o -c`    
