@@ -268,7 +268,7 @@
     * fungsi **printf()**
       * Fungsi **printf()** berasal dari library stdio.h yang ditambahkan ke dalam kode program C. Fungsi ini digunakan untuk mencetak output pada program C.
     * fungsi **system()**
-    * Fungsi **system()** berasal dari library stdlib.h yang ditambahkan ke dalam kode program C. Fungsi ini digunakan untuk menulis perintah CLI yang ingin di eksekusi di terminal melalui program C.
+      * Fungsi **system()** berasal dari library stdlib.h yang ditambahkan ke dalam kode program C. Fungsi ini digunakan untuk menulis perintah CLI yang ingin di eksekusi di terminal melalui program C.
 
 #### 3. Compile program C dengan menggunakan GNU C Library
   * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis dalam 1 file source code:
@@ -302,7 +302,7 @@
 ---
 
 ### File
-  * Source code [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library][lesson-1-source-code/]
+  * [Source code](lesson-1-source-code/)
 
 ---
 
