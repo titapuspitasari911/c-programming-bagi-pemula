@@ -266,8 +266,9 @@
     * fungsi **main()**
       * Fungsi **main()** merupakan fungsi yang pertama kali akan dijalankan dan di eksekusi pada pemrograman C. Fungsi **main()** ini bisa memiliki tipe **int** dan **void**. Fungsi **main()** menggunakan tipe data **int**, jika setelah eksekusi program diperlukan nilai balik dari akhir eksekusi program, namun jika tidak memerlukan nilai balik, fungsi **main()** dapat menggunakan tipe data **void**.
     * fungsi **printf()**
-      
+      * Fungsi **printf()** berasal dari library stdio.h yang ditambahkan ke dalam kode program C. Fungsi ini digunakan untuk mencetak output pada program C.
     * fungsi **system()**
+    * Fungsi **system()** berasal dari library stdlib.h yang ditambahkan ke dalam kode program C. Fungsi ini digunakan untuk menulis perintah CLI yang ingin di eksekusi di terminal melalui program C.
 
 #### 3. Compile program C dengan menggunakan GNU C Library
   * Berikut ini adalah perintah yang digunakan untuk compile program C dengan program yang ditulis dalam 1 file source code:
@@ -295,11 +296,13 @@
       * `./myprog` 
       
  * Menjalankan program C dengan parameter input
-
+    * Selain menjalankan program tanpa parameter input, kita juga bisa membuat extensi program yang menerima parameter input. Gambar di bawah ini adalah contoh program c yang mana extensi program yang menerima parameter input.
+    <br>![Program dengan Parameter](images/program-dengan-parameter.png)
+    * Pada fungsi **main()** terdapat dua parameter **argc** dan **argv[]**. **argc** berisikan jumlah parameter yang dimasukan ke terminal saat program dieksekusi. **argv[]** berisikan array data parameter yang dimasukan ke terminal saat program dieksekusi.
 ---
 
 ### File
-  * Source code [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_SourceCode.zip)
+  * Source code [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library][lesson-1-source-code/]
 
 ---
 
